@@ -1,2 +1,2 @@
-# Sign_Language_Translator
- 
+# Sign-Language-to-Text-and-Audio-Converter
+DESIGNING AN REHABILITATION AID TO PROVIDE  ASSISTANCE TO SPEECH AND AUDITORY DISABILITIES
